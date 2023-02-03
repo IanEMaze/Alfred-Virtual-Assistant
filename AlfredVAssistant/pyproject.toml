@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "alfredvassistant"
+version = "0.1.0"
+description = "Virtual Assistant"
+authors = ["Ian Maze <mazeian93@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyttsx = "^1.1"
+pipwin = "^0.5.2"
+pip = "^23.0"
+datetime = "^5.0"
+speechrecognition = "^3.9.0"
+pyttsx3 = "^2.90"
+pyaudio = "^0.2.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
