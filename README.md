@@ -35,7 +35,7 @@ py app.py
 ```
 
 ## Commands:
-* "Alfred, tell me your name"
+* "Tell me your name"
 * "Alfred, I have a question" (Alfred will ask what your question is) -> Ask question -> answer displayed on screen
 * "Alfred, Play Pandora" - (if signed into pandora, will open pandora on screen and start music)
 * "Alfred, What Time is it?"
